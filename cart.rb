@@ -3,6 +3,8 @@ require 'byebug'
 require 'nokogiri'
 require 'csv'
 require 'json'
+require './pizza.rb'
+require './item.rb'
 
 class Cart
 
